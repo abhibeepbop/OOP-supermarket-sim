@@ -2,8 +2,6 @@
 
 A Python project (COMP1811 – Paradigms of Programming, Logbook Task 1) that simulates customers moving through supermarket checkout lanes, built to practise **object-oriented programming** concepts such as classes, inheritance and method overriding.
 
-> **Note:** This is a work-in-progress coursework project. Several files are experiments/prototypes and some features are incomplete or not fully functional.
-
 ## Overview
 
 The simulation models:
@@ -52,5 +50,7 @@ python final.py
 ```
 
 ## Author
+
+> All code in this project was written by the author without the use of AI tools.
 
 Abhishekh Rajan – COMP1811 Logbook Task 1
